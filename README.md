@@ -5,7 +5,7 @@
 4. Rename or copy `.env.example` file to `.env`
 5. `php artisan key:generate`
 6. Set your database credentials in `.env` file
-7. `php artisan migrate:fresh --seed`
+7. `php artisan migrate:fresh`
 8. `php artisan storage:link`
 9. `npm install`
 10. `npm run dev`
