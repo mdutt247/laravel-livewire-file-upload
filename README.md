@@ -6,6 +6,7 @@
 5. `php artisan key:generate`
 6. Set your database credentials in `.env` file
 7. `php artisan migrate:fresh --seed`
-8. `npm install`
-9. `npm run dev`
-10. `php artisan serve`
+8. `php artisan storage:link`
+9. `npm install`
+10. `npm run dev`
+11. `php artisan serve`
