@@ -10,3 +10,4 @@
 9. `npm install`
 10. `npm run dev`
 11. `php artisan serve`
+12. Register a new user then login and try file upload
