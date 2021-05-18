@@ -11,3 +11,7 @@
 10. `npm run dev`
 11. `php artisan serve`
 12. Register a new user then login and try file upload
+
+Twitter: [kotagin](https://twitter.com/kotagin)
+E-mail: [m.dutt@mditech.net](mailto:m.dutt@mditech.net)
+Website: [mditech.net](https://mditech.net)
